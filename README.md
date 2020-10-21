@@ -8,7 +8,7 @@ In this study, we choose an efficient algorithm from different Artificial Intell
 ## Outcome:
 For efficient model selection, 5 different AI and ML models were presented. Among the AI and ML models, it is evident that the ML Models outperform the AI models in terms of Accuracy score, F1-score and RoC curve analysis for Multiclass classification for both the datasets.<br/>
 
-### ACCURACY ANALYSIS ON MODELS FOR NSL-KDD DATASET & KDD-C UP -99 DATASET
+### Accuracy Analysis on Models for NSL-KDD Dataset & KDD-CUP -99 Dataset
 <br/>
 
 <img src="im/kdd-cup99.png"
